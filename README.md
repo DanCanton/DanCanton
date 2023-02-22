@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanCanton
 - 👀 I’m interested in Power BI, Visual Basic, C++, Data Analysis
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently developing small projects in vb
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me ... hmm... maybe not yet...
 
